@@ -75,7 +75,7 @@ body{ background: linear-gradient(rgba(255,255,255,.6), rgba(255,255,255,.6)), u
 
 /* Top row: text left + small image right */
 .modal-top{ display: grid; grid-template-columns: 1fr auto;  gap: 22px; padding: 26px 51px 19px; align-items: start;}
-.modal-top-left h2{ margin: 0; font-family: "Montserrat Alternates","Montserrat",sans-serif; font-weight: 800; font-size: 30px; padding: 64px 44px 6px; text-decoration-thickness: 3px; line-height: 1;}
+.modal-top-left h2{ margin: 50px; font-family: "Montserrat Alternates","Montserrat",sans-serif; font-weight: 800; font-size: 30px; padding: 64px 44px 6px; text-decoration-thickness: 3px; line-height: 1;}
 .modal-top-left h3.modal-date{ margin: 0; font-size: 20px; font-weight: 500; color: #000000; padding: 0 44px 6px;} 
 .modal-company{ margin: 11px 0 0; font-size: 22px; padding: 0px 44px 6px;}
 
