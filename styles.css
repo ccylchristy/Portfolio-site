@@ -111,7 +111,7 @@ body{ background: linear-gradient(rgba(255,255,255,.6), rgba(255,255,255,.6)), u
   aspect-ratio: 1 / 1; flex-direction: column; overflow: hidden; display: flex; align-items: center; justify-content: center;}
 .work-card{ cursor: pointer;}
 .work-card:hover{ transform: translateY(-4px); box-shadow: 0 14px 28px rgba(0,0,0,0.2);}
-.work-inner h3{color:#111;font-family:"Montserrat",sans-serif; text-align:center; font-size: xx-large; margin: 60px;}
+.work-inner h3{color:#111;font-family:"Montserrat",sans-serif; text-align:center; font-size: xx-large; margin: 70px;}
 /* ===== Gallery modal styles ===== */
 /* Overlay */
 .work-modal-overlay{ position: fixed; inset: 0; background: rgba(0,0,0,0.45); display: none; align-items: center; justify-content: center; padding: 24px; z-index: 9999;}
